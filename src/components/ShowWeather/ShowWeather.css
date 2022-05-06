@@ -1,0 +1,11 @@
+.weather-icon {
+    width: 80px;
+    height: 80px;
+}
+
+@media (max-width: 545px) {
+    .info-weather {
+        width: 100% !important;
+        background-color: red;
+    }
+}
